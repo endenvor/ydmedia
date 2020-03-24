@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  EmbedData.cpp
+  EmbedDataDlg.cpp
+C:\Users\david\Documents\GitHub\ydmedia\EmbedData\EmbedDataDlg.cpp(44,59): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CButton *”
+C:\Users\david\Documents\GitHub\ydmedia\EmbedData\EmbedDataDlg.cpp(156,60): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CButton *”
+  EmbedFile.cpp
+  ydmedia.cpp
+C:\Users\david\Documents\GitHub\ydmedia\EmbedData\ydmedia.cpp(238,53): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+C:\Users\david\Documents\GitHub\ydmedia\EmbedData\ydmedia.cpp(551,49): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+C:\Users\david\Documents\GitHub\ydmedia\EmbedData\ydmedia.cpp(649,57): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 284 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  EmbedData.vcxproj -> C:\Users\david\Documents\GitHub\ydmedia\x64\Release\EmbedData.exe
